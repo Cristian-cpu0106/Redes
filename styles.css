@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    text-align: center;
+}
+.section {
+    padding: 100px 20px;
+    background-size: cover;
+    background-position: center;
+}
+.nacional {
+    background-image: url('../images/nacional.jpg');
+}
+.madrid {
+    background-image: url('../images/madrid.jpg');
+}
+.liverpool {
+    background-image: url('../images/liverpool.jpg');
+}
+footer {
+    background-color: #111;
+    padding: 20px;
+}
+.social-icons img {
+    width: 40px;
+    margin: 0 10px;
+    vertical-align: middle;
+}
